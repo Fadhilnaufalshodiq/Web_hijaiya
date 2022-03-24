@@ -1,0 +1,51 @@
+Hallo rekan {NAMA}
+
+
+
+SELAMAT datang dan selamat bergabung dikeluarga besar DEJAVU INDONESIA (www.galaxyandromeda.com, www.gopakupu.com)
+
+
+
+Anda telah mengaktifkan keanggotaan anda di dejavu-indonesia. Terima kasih untuk memilih menjadi wirausahawan di jaringan kami.
+
+Sponsor Anda adalah : {NAMASPON}
+Email Sponsor Anda  : {SPON_MAIL}
+No. Telp/HP Sponsor : {SPON_HP}
+
+
+Didalam jaringan kami, Anda akan mendapat segala bantuan yang mungkin diberikan dari sponsor, upline & network leader Anda.
+
+
+Pengelola : {PENGELOLA}
+Transfer  : {RPADMIN}
+Rek. no   : {BANKADMIN}
+              atau
+            {BANKADMIN1}
+Telp./HP  : {HPADMIN}
+
+
+Gunakanusername dan password berikut untuk LOGIN 
+
+Username : {USERNAME}
+Password : {PASSWORD}
+
+
+
+Konfirmasi juga dapat anda lakukan melalui Online chat Costummer service kami yang sedang online, dan bisa juga melalui sms ke nomor : {HPADMIN}
+
+
+Sekali lagi, terima kasih atas keputusan anda.
+
+Sampai jumpa di puncak sukses.
+
+
+
+dejavu-indonesia Support System
+
+dejavu-indonesia
+
+http://galaxyandromeda.com
+http://gopakupu.com
+
+
+
